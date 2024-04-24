@@ -9,3 +9,5 @@ Following questions have been answered.
 				
 3) What is the revenue breakdown by payment method?				
 
+
+Ill add a new analysis this week.
